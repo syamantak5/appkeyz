@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "2.5.11", 
     "socket.io": "0.9.13”,
-    "mysql": "2.2.0"
+    "felixge/node-mysql": "2.2.0"
   },
     "engines": {
      "node": "0.10.x",
