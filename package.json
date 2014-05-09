@@ -3,12 +3,13 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-  "start": "node app"
+  "start": "node app.js”
  },
 
   "dependencies": {
     "express": "2.5.11", 
     "socket.io": "0.9.13”
+    “mysql” : “2.2.0”
   },
     "engines": {
      "node": "0.10.x",
